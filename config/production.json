@@ -1,6 +1,6 @@
 {
   "locale": "fr",
-  "protocol": "https",
+  "protocol": "http",
   "warnHTTP": false,
   "host": "localhost",
   "publicPort": 8080,
@@ -116,7 +116,7 @@
   "googleAnalyticsTrackingId": "",
   "spamLimit": 5,
   "frequentlyAskedQuestions": true,
-  "termsOfService": false,
+  "termsOfService": true,
   "privacyPolicy": false,
   "glossary": false,
   "homeLink": "/",
