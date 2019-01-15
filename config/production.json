@@ -98,24 +98,24 @@
     "recaptchaSite"
   ],
   "socialshare": {
-    "siteName": "DemocracyOS",
-    "siteDescription": "DemocracyOS voting system",
-    "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
-    "domain": "democracyos.org",
+    "siteName": "Poitiers collectif - plateforme participative",
+    "siteDescription": "La plateforme participative du collectif citoyen pour les municipales de 2020",
+    "image": "http://poitierscollectif.fr/wp-content/uploads/2018/12/logo.png",
+    "domain": "poitierscollectif.fr",
     "twitter": {
-      "username": "@democracyos"
+      "username": "@P_Collectif"
     }
   },
-  "logo": "http://poitierscollectif.fr/wp-content/themes/bridge/img/logo_white.png",
-  "logoMobile": "/http://poitierscollectif.fr/wp-content/themes/bridge/img/logo_white.png",
+  "logo": "http://poitierscollectif.fr/wp-content/uploads/2018/12/logo.png",
+  "logoMobile": "http://poitierscollectif.fr/wp-content/uploads/2018/12/logo.png",
   "favicon": "http://poitierscollectif.fr/wp-content/uploads/2018/10/favicon.png",
   "organizationName": "Poitiers Collectif",
   "organizationEmail": "contact@poitierscollectif.fr",
   "organizationUrl": "http://poitierscollectif.fr/",
-  "learnMoreUrl": "",
+  "learnMoreUrl": "http://poitierscollectif.fr/la-demarche/",
   "googleAnalyticsTrackingId": "",
   "spamLimit": 5,
-  "frequentlyAskedQuestions": false,
+  "frequentlyAskedQuestions": true,
   "termsOfService": false,
   "privacyPolicy": false,
   "glossary": false,
