@@ -2,7 +2,7 @@
   "locale": "fr",
   "protocol": "http",
   "warnHTTP": false,
-  "host": "localhost",
+  "host": "contribution-poitierscollectif.cleverapps.io",
   "publicPort": 8080,
   "mongoUrl": "mongodb://u7k7mblxeafz5zk:ksYi2I1AsvsbtDwOtpE0@bgonfu6ykgf9lxj-mongodb.services.clever-cloud.com:2111/bgonfu6ykgf9lxj",
   "mongoUsersUrl": "",
