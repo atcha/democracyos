@@ -1,7 +1,7 @@
 {
   "locale": "fr",
-  "protocol": "http",
-  "warnHTTP": true,
+  "protocol": "https",
+  "warnHTTP": false,
   "host": "localhost",
   "publicPort": 8080,
   "mongoUrl": "mongodb://u7k7mblxeafz5zk:ksYi2I1AsvsbtDwOtpE0@bgonfu6ykgf9lxj-mongodb.services.clever-cloud.com:2111/bgonfu6ykgf9lxj",
@@ -106,9 +106,9 @@
       "username": "@democracyos"
     }
   },
-  "logo": "/lib/boot/logo.png",
-  "logoMobile": "/lib/boot/logo-mobile.png",
-  "favicon": "/lib/boot/favicon.ico",
+  "logo": "http://poitierscollectif.fr/wp-content/themes/bridge/img/logo_white.png",
+  "logoMobile": "/http://poitierscollectif.fr/wp-content/themes/bridge/img/logo_white.png",
+  "favicon": "http://poitierscollectif.fr/wp-content/uploads/2018/10/favicon.png",
   "organizationName": "Poitiers Collectif",
   "organizationEmail": "contact@poitierscollectif.fr",
   "organizationUrl": "http://poitierscollectif.fr/",
@@ -120,7 +120,7 @@
   "privacyPolicy": false,
   "glossary": false,
   "homeLink": "/",
-  "headerBackgroundColor": "#64476e",
+  "headerBackgroundColor": "#12a19a",
   "headerFontColor": "#fff",
   "headerContrast": false,
   "googleAPIKey": "",
